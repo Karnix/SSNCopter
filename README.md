@@ -1,3 +1,10 @@
 # SSNCopter
-Developed a PID rate control loop for stabilizing a quadcopter using a single 3-axis L3G4200D gyro and an Arduino Uno.
-This has been developed as a part of a college funded project to develop an autonomous computer vision based multirotor system.
+
+A 3 axis flight controller using an ATMega 328 and a 3 axis L3G4200D gyro. 
+Uses pin change interrupts, I2C comm, PWM and 3 PID rate control loops, all working together with an update rate of ~250 Hz.
+
+<p align='center'>
+<img src='https://github.com/karnikram/ssn-copter/blob/master/flightcontroller.jpg' width='500px'/>
+</p>
+
+Based on Joop Brokking's [YMFC-3D](http://www.brokking.net/ymfc-3d_main.html) project.
