@@ -5,8 +5,12 @@ Uses pin change interrupts, I2C comm, PWM and 3 PID rate control loops, all work
 
 Also included are the PCB files for the controller.
 
-<p align='center'>
-<img src='https://github.com/karnikram/ssn-copter/blob/master/flightcontroller.jpg' width='500px'/>
-</p>
+<table>
+  <tr>
+    <td width = "50%"><img src='https://github.com/karnikram/ssn-copter/blob/master/flightcontroller.jpg'/></td>
+    <td width = "50%"><img src='https://github.com/karnikram/ssn-copter/blob/master/pcb.png'/></td>
+  </tr>
+
+</table>
 
 Based on Joop Brokking's [YMFC-3D](http://www.brokking.net/ymfc-3d_main.html) project.
