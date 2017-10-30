@@ -9,7 +9,6 @@ Also included are the PCB files for the controller.
 <table>
   <tr>
     <td width = "50%"><img src='https://github.com/karnikram/ssn-copter/blob/master/flightcontroller.jpg'/></td>
-    <td width = "50%"><img src='https://github.com/karnikram/ssn-copter/blob/master/pcb.png'/></td>
   </tr>
 
 </table>
